@@ -54,11 +54,11 @@ spelling-extractor/
 [In Cloud Console](console.cloud.google.com)→ APIs & Services → Library
 enable Google Docs, Drive, and Gmail APIs.
 
-![enableapis](images\enableapis.png)
+![enableapis](images/enableapis.png)
 
 Under Credentials, create a Desktop app OAuth client.
 
-![credentials](images\credentials.png)
+![credentials](images/credentials.png)
 
 Download its JSON and save as credentials.json.
 
