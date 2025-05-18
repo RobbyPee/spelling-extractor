@@ -1,6 +1,6 @@
 # Spelling Extractor & Emailer
 
-A quick prototype showing how to link a local LLM (Phi-3) with Google’s APIs, keeping all data local for privacy. It’s part of a wider “Local Business Assistant” system I’m building for automating small businesses.
+A quick prototype created with LLM asistance, showing how to link a local LLM (Phi-3) with Google’s APIs, keeping all data local for privacy. It’s part of a wider “Local Business Assistant” system I’m building for automating small businesses.
 
 Every week we get a PDF newsletter from our local school with next week’s spelling list. This tool:
 
