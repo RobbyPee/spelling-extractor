@@ -10,7 +10,7 @@ def main():
     )
     p.add_argument(
         "pdf_path",
-        help="Path to the newsletter PDF (e.g. D:/code/.../Y3 T3W5.pdf)"
+        help="Path to the newsletter PDF"
     )
     args = p.parse_args()
     pdf = args.pdf_path
