@@ -10,7 +10,7 @@ from spelling_extractor.email_sender import send_doc_via_email
 def main():
     parser = argparse.ArgumentParser(__doc__)
     parser.add_argument('pdf_path', help='Path to newsletter PDF')
-    parser.add_argument('--to', default='robinp2@gmail.com', help='Recipient email')
+    parser.add_argument('--to', default='EMAIL_ADDRESS', help='Recipient email')
     args = parser.parse_args()
 
     # Extract text and block of spellings
