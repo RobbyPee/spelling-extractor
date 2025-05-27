@@ -9,6 +9,9 @@ Every week we get a PDF newsletter from our local school with next week’s spel
 3. **Creates** a Google Doc (34 pt font, centered title & subtitle)  
 4. **Exports** it to PDF and **emails** it for printing  
 
+Really, this was just a qucick test of authentication, and connecting apis to phi-3. Answer, it works. (after some initial fiddlyness)
+
+
 ---
 
 ## 📁 Project Layout
