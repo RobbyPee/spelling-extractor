@@ -1,4 +1,4 @@
-# Spelling Extractor & Emailer
+# Spelling Test PDF Extractor & Emailer
 
 A quick prototype created with LLM asistance, showing how to link a local LLM (Phi-3) with Google’s APIs, keeping all data local for privacy. It’s part of a wider “Local Business Assistant” system I’m building for automating small businesses.
 
